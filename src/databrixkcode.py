@@ -35,9 +35,9 @@ nltk.download('wordnet')
 nltk.download('stopwords')
 nltk.download('averaged_perceptron_tagger')
 
-# --- Paths to datasets ---
-file_path = "/Users/bridgetchong/Desktop/datathon/Dataset/dataset/videos.csv"
-file_path_2 = "/Users/bridgetchong/Desktop/datathon/Dataset/dataset/comments1.csv"
+# --- Paths to datasets (Please change these 2 lines!) ---
+file_path = ".../videos.csv"
+file_path_2 = ".../comments1.csv"
 
 # --- Read datasets ---
 df = pd.read_csv(file_path)
