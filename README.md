@@ -33,6 +33,7 @@ This Python script processes and analyzes user comments related to beauty produc
 ## Output
 
 * An Excel file containing cleaned and categorized comment data
+* Once you have saved the excel file, upload it onto the Power BI dashboard. For more information, please view below.
 
 ---
 
